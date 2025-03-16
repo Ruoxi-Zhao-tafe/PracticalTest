@@ -62,3 +62,13 @@ Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request 
 Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\2023\Practical Test Preparation\Student Files\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
 Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\2023\Practical Test Preparation\Student Files\Ticketing\Ticketing\obj\Debug\Ticketing.exe
 Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\2023\Practical Test Preparation\Student Files\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\bin\Debug\Ticketing.exe.config
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\bin\Debug\Ticketing.exe
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.AssemblyReference.cache
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.cache
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+D:\Tafe IT Certificate 4\Term3\ICTICT449\PracticalTest\PracticalTestRepo\PracticalTest\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
